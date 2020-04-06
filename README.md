@@ -1,5 +1,7 @@
 # V-Craft Tutor
 
+![Main workflow](https://github.com/yoychen/v-craft-tutor/workflows/Main%20workflow/badge.svg)
+
 An example project of the [V-Craft Tutorial Guide](https://yoychen.github.io/v-craft/docs/guide/tutorial.html)
 
 ## Project setup
