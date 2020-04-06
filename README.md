@@ -1,4 +1,6 @@
-# v-craft-tutor
+# V-Craft Tutor
+
+An example project of the [V-Craft Tutorial Guide](https://yoychen.github.io/v-craft/docs/guide/tutorial.html)
 
 ## Project setup
 ```
